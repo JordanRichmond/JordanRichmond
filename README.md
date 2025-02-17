@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JordanRichmond
 - 👀 I’m interested in coding, gaming & travelling.
-- 🌱 I’m currently learning Python, JavaScript, HTML & CSS.
-- 💞️ I’m looking to collaborate on anything and everything.
+- 🌱 Current Tech Stack: JavaScript, Typescript, Node.js & AWS.
 - 📫 How to reach me: LinkedIn: Jordan Richmond
 
 <!---
